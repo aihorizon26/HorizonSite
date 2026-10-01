@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="100%" height="100%">
+  <defs>
+    <linearGradient id="coffeeBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1C1917"/>
+      <stop offset="100%" stop-color="#292524"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="750" fill="url(#coffeeBg)"/>
+  
+  <!-- Browser Chrome Top bar -->
+  <rect width="1200" height="50" fill="#0C0A09"/>
+  <circle cx="30" cy="25" r="7" fill="#EF4444"/>
+  <circle cx="50" cy="25" r="7" fill="#F59E0B"/>
+  <circle cx="70" cy="25" r="7" fill="#10B981"/>
+  <rect x="120" y="12" width="600" height="26" rx="6" fill="#292524"/>
+  <text x="140" y="30" fill="#A8A29E" font-family="sans-serif" font-size="13">https://conlechecafe.co.za</text>
+
+  <!-- Content Mockup -->
+  <!-- Hero Section -->
+  <text x="100" y="180" fill="#F59E0B" font-family="'Space Grotesk', sans-serif" font-size="20" letter-spacing="3" font-weight="700">ARTISANAL COFFEE &amp; BAKERY • PRETORIA</text>
+  <text x="100" y="260" fill="#FFFFFF" font-family="'Space Grotesk', sans-serif" font-size="54" font-weight="700">Craft Coffee Made</text>
+  <text x="100" y="325" fill="#FFFFFF" font-family="'Space Grotesk', sans-serif" font-size="54" font-weight="700">With Passion Daily.</text>
+  
+  <text x="100" y="385" fill="#D6D3D1" font-family="sans-serif" font-size="20">Freshly roasted single-origin beans and sourdough baked every morning.</text>
+  
+  <rect x="100" y="430" width="220" height="56" rx="12" fill="#F59E0B"/>
+  <text x="210" y="465" fill="#1C1917" font-family="sans-serif" font-size="18" font-weight="700" text-anchor="middle">Order Online</text>
+
+  <rect x="340" y="430" width="220" height="56" rx="12" fill="none" stroke="#D6D3D1" stroke-width="2"/>
+  <text x="450" y="465" fill="#FFFFFF" font-family="sans-serif" font-size="18" font-weight="600" text-anchor="middle">View Menu</text>
+
+  <!-- Visual Card right -->
+  <rect x="740" y="150" width="380" height="480" rx="20" fill="#292524" stroke="#44403C" stroke-width="2"/>
+  <circle cx="930" cy="330" r="100" fill="#F59E0B" opacity="0.15"/>
+  <path d="M870 380 Q930 250 990 380 Z" fill="#F59E0B" opacity="0.4"/>
+  <text x="930" y="480" fill="#FFFFFF" font-family="sans-serif" font-size="22" font-weight="700" text-anchor="middle">Table Booking Bot Active</text>
+  <rect x="820" y="520" width="220" height="40" rx="20" fill="#10B981"/>
+  <text x="930" y="545" fill="#FFFFFF" font-family="sans-serif" font-size="14" font-weight="700" text-anchor="middle">✓ Table Confirmed on WhatsApp</text>
+</svg>

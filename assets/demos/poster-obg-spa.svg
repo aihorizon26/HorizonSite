@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="100%" height="100%">
+  <rect width="1200" height="750" fill="#3B0764"/>
+  <rect width="1200" height="50" fill="#1E0136"/>
+  <circle cx="30" cy="25" r="7" fill="#EF4444"/><circle cx="50" cy="25" r="7" fill="#F59E0B"/><circle cx="70" cy="25" r="7" fill="#10B981"/>
+  <rect x="120" y="12" width="600" height="26" rx="6" fill="#581C87"/>
+  <text x="140" y="30" fill="#E9D5FF" font-family="sans-serif" font-size="13">https://obgspa.co.za</text>
+
+  <text x="100" y="180" fill="#C084FC" font-family="'Space Grotesk', sans-serif" font-size="20" letter-spacing="3" font-weight="700">LUXURY WELLNESS &amp; SPA • WATERKLOOF</text>
+  <text x="100" y="260" fill="#FFFFFF" font-family="'Space Grotesk', sans-serif" font-size="54" font-weight="700">Rejuvenate Body &amp;</text>
+  <text x="100" y="325" fill="#FFFFFF" font-family="'Space Grotesk', sans-serif" font-size="54" font-weight="700">Mind In Tranquility.</text>
+  <text x="100" y="385" fill="#E9D5FF" font-family="sans-serif" font-size="20">Boutique treatments with 24/7 self-service automated WhatsApp booking.</text>
+  
+  <rect x="100" y="430" width="220" height="56" rx="12" fill="#A855F7"/>
+  <text x="210" y="465" fill="#FFFFFF" font-family="sans-serif" font-size="18" font-weight="700" text-anchor="middle">Book Treatment</text>
+
+  <rect x="740" y="150" width="380" height="480" rx="20" fill="#581C87" stroke="#A855F7" stroke-width="2"/>
+  <circle cx="930" cy="300" r="80" fill="#C084FC" opacity="0.2"/>
+  <text x="930" y="440" fill="#FFFFFF" font-family="sans-serif" font-size="20" font-weight="700" text-anchor="middle">Smart Booking Integration</text>
+  <rect x="800" y="480" width="260" height="44" rx="22" fill="#9333EA"/>
+  <text x="930" y="508" fill="#FFFFFF" font-family="sans-serif" font-size="15" font-weight="600" text-anchor="middle">Calendar Synced in Real Time</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="100%" height="100%">
+  <!-- Background optional -->
+  <g fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Outer Main Triangle -->
+    <polygon points="120,220 200,80 250,220" />
+    
+    <!-- Right Angle / Vertical Boundary -->
+    <line x1="270" y1="90" x2="270" y2="220" />
+    
+    <!-- Horizon Upward Curved Arrow -->
+    <path d="M 100,210 Q 180,180 270,90" stroke-width="9" />
+    <!-- Arrowhead -->
+    <path d="M 250,95 L 270,90 L 265,110" stroke-width="8" fill="none" />
+    
+    <!-- Base line -->
+    <line x1="100" y1="220" x2="270" y2="220" />
+  </g>
+  <!-- Text Label -->
+  <text x="200" y="270" font-family="'Space Grotesk', 'Sora', sans-serif" font-size="28" font-weight="700" letter-spacing="8" fill="currentColor" text-anchor="middle">AI HORIZON</text>
+</svg>

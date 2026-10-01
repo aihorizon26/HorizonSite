@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="100%" height="100%">
+  <rect width="1200" height="750" fill="#0F172A"/>
+  <rect width="1200" height="50" fill="#020617"/>
+  <circle cx="30" cy="25" r="7" fill="#EF4444"/><circle cx="50" cy="25" r="7" fill="#F59E0B"/><circle cx="70" cy="25" r="7" fill="#10B981"/>
+  <rect x="120" y="12" width="600" height="26" rx="6" fill="#1E293B"/>
+  <text x="140" y="30" fill="#94A3B8" font-family="sans-serif" font-size="13">https://apexproperty.co.za</text>
+
+  <text x="100" y="180" fill="#38BDF8" font-family="'Space Grotesk', sans-serif" font-size="20" letter-spacing="3" font-weight="700">PREMIUM REAL ESTATE • PRETORIA EAST</text>
+  <text x="100" y="260" fill="#FFFFFF" font-family="'Space Grotesk', sans-serif" font-size="54" font-weight="700">Find Your Dream</text>
+  <text x="100" y="325" fill="#FFFFFF" font-family="'Space Grotesk', sans-serif" font-size="54" font-weight="700">Luxury Residence.</text>
+  <text x="100" y="385" fill="#CBD5E1" font-family="sans-serif" font-size="20">Smart listing portal with instant buyer matching and WhatsApp viewing bot.</text>
+  
+  <rect x="100" y="430" width="220" height="56" rx="12" fill="#2563EB"/>
+  <text x="210" y="465" fill="#FFFFFF" font-family="sans-serif" font-size="18" font-weight="700" text-anchor="middle">Browse Listings</text>
+
+  <rect x="740" y="150" width="380" height="480" rx="20" fill="#1E293B" stroke="#3B82F6" stroke-width="2"/>
+  <rect x="770" y="190" width="320" height="180" rx="12" fill="#334155"/>
+  <text x="930" y="290" fill="#38BDF8" font-family="sans-serif" font-size="20" font-weight="700" text-anchor="middle">🏡 Luxury Villa • Silver Lakes</text>
+  <text x="930" y="440" fill="#FFFFFF" font-family="sans-serif" font-size="18" font-weight="700" text-anchor="middle">Instant Buyer Alert Active</text>
+  <rect x="800" y="480" width="260" height="44" rx="22" fill="#10B981"/>
+  <text x="930" y="508" fill="#FFFFFF" font-family="sans-serif" font-size="14" font-weight="600" text-anchor="middle">✓ WhatsApp Viewing Scheduled</text>
+</svg>
